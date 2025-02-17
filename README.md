@@ -16,7 +16,7 @@ Welcome to Off The Beaten Path Recovery, a web application designed to support i
 
 ## Getting Started
 
-1.  Visit the website: [https://yourusername.github.io/off-the-beaten-path-recovery](https://yourusername.github.io/off-the-beaten-path-recovery) (replace with your actual GitHub Pages URL)
+1.  Visit the website: https://github.com/mathe3rd/off-the-beaten-path-recovery
 2.  Start tracking your clean time, writing journal entries, and exploring the various features.
 3.  Engage with the community and support others on their recovery journeys.
 4.  Don't forget to check out the book promotion and recovery literature store for valuable resources.
